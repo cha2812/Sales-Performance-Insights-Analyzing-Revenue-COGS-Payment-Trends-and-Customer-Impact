@@ -105,6 +105,8 @@ So in this case, for me to upload my file, it would be
 
 
    CSV HEADER;
+
+   ![](pic3.png)
    
 the file is now uploaded into the table in PostgreSQL.
 
