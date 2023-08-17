@@ -73,6 +73,10 @@ The Sales_data table contained the following columns with the appropriate data t
 
 The table was successfully created as seen above with the returned message.
 
+Then you have to check to verify if your table was created and it was created.
+
+![](pic2.png)
+
 The next step was to import the .csv file into the table to put rows and values into our table created. There are two ways to import files into the table in PostgreSQL.
 1. Import the files by right-clicking on the table name on the right-hand side and then selecting Import/Export data and then selecting the location/folder where your .csv file is located and then importing.
 2. Writing up a code or query in the query tool. The code to write is
@@ -103,5 +107,7 @@ So in this case, for me to upload my file, it would be
    CSV HEADER;
    
 the file is now uploaded into the table in PostgreSQL.
+
+After the uploading was done, the next steps 
 
 
