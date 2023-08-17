@@ -26,7 +26,7 @@ The following questions were asked and the answers were provided to business pro
 17. What is the total cost of goods sold (COGS) for each product line?
 18. Which product lines have the highest and lowest average gross margin percentage?
 19. What was the most used mode of payment?
-20. Which customer type contributes the most to total revenue
+20. Which customer type contributes the most to total revenue?
 
 
 ## Data Analysis
@@ -114,7 +114,69 @@ After the uploading was done, the next step was to check if your table had value
 
 ![](pic4.png)
 
+Now, we had our full table to work with, we decided to answer and solve the business problems.
 
+For problem 1, How many invoices are there in the dataset?
+We had 1000 different invoices in the dataset.
+
+![](pic5.png)
+
+2. What is the total quantity of products sold?
+
+![](pic6.png)
+
+3. What is the average unit price of products sold?
+
+
+4. What is the total gross income?
+
+
+5. What is the highest unit price among the products?
+
+
+6. What is the lowest unit price among the products?
+
+
+7. What is the average gross margin percentage?
+
+
+8. What is the total gross margin percentage for each customer type?
+
+
+9. What is the total tax amount for each branch?
+
+
+10. What is the average rating for each product line?
+
+
+11. What is the total revenue for each product line, considering both unit price and quantity?
+
+
+12. What is the average quantity sold for each branch?
+
+
+13. For each gender, what is the total gross income and total tax amount?
+
+
+14. What is the average unit price and average quantity sold for each product line?
+
+
+15. What is the total gross income for each payment method and customer type combination?
+
+
+16. The total revenue for each gender
+
+
+17. What is the total cost of goods sold (COGS) for each product line?
+
+
+18. Which product lines have the highest and lowest average gross margin percentage?
+
+
+19. What was the most used mode of payment?
+
+
+20. Which customer type contributes the most to total revenue?
 
 
 
