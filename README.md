@@ -217,7 +217,10 @@ The query groups the data by both "Payment" and "Customer type" and calculates t
 
 
 ## Conclusion
-The Company was 
+In delving into the depths of our retail sales dataset, I have found invaluable insights that explain customer preferences, revenue trends, and operational methods. By employing rigorous data analysis techniques, we've gained clarity on pricing dynamics, payment preferences, and temporal patterns. These revelations empower us to tailor strategies that optimize profitability, enhance customer experiences, and steer the business toward sustained growth. With these insights, we're poised to make informed decisions that align with market demands and capitalize on emerging opportunities.
+
+The Company has 1000 invoices in its databases. The company sold 5,510 products at an average price of 55.672130000000000. They generated an income of 15,379.3690. The most expensive and priciest product cost 99.96 while the lowest priced product cost 10.08.
+The Customers that were members or who had membership had a slight gross margin percentage of 2385.714285762 as against the normal customers who had 2376.190476238. The customers preferred to pay with Ewallet, then cash and credit card last.
 
 
 
