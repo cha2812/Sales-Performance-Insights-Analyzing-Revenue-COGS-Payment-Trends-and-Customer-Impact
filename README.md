@@ -110,6 +110,8 @@ So in this case, for me to upload my file, it would be
    
 the file is now uploaded into the table in PostgreSQL.
 
-After the uploading was done, the next steps 
+After the uploading was done, the next step was to check if your table had values by running the query SELECT * FROM sales_data which they did
+
+![](pic4.png)
 
 
