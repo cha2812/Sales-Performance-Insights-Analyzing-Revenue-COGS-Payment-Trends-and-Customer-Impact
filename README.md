@@ -78,19 +78,28 @@ The next step was to import the .csv file into the table to put rows and values 
 2. Writing up a code or query in the query tool. The code to write is
    COPY table_name
 
+
    FROM 'file-path/location of file'
 
+
    DELIMITER ','
+
 
    CSV HEADER;
 So in this case, for me to upload my file, it would be 
+
+
    COPY sales_data
+
 
    FROM '/Users/jamesthomas/Desktop/SQL FILES AND DOCUMENTS/SQL ASSIGNMENT WITH SPLENDOR  /files/supermarket_sales - project 2.csv'
 
+
    DELIMITER ','
 
+
    CSV HEADER;
+   
 the file is now uploaded into the table in PostgreSQL.
 
 
