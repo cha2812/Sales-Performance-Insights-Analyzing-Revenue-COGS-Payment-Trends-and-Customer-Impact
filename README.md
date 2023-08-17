@@ -76,6 +76,7 @@ The table was successfully created as seen above with the returned message.
 The next step was to import the .csv file into the table to put rows and values into our table created. There are two ways to import files into the table in PostgreSQL.
 1. Import the files by right-clicking on the table name on the right-hand side and then selecting Import/Export data and then selecting the location/folder where your .csv file is located and then importing.
 2. Writing up a code or query in the query tool. The code to write is
+   
    COPY table_name
 
 
@@ -86,6 +87,7 @@ The next step was to import the .csv file into the table to put rows and values 
 
 
    CSV HEADER;
+   
 So in this case, for me to upload my file, it would be 
 
 
