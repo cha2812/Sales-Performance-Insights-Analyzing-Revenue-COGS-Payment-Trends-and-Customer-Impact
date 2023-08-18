@@ -184,7 +184,7 @@ The query groups the data by "Product line" and calculates the total revenue for
 13. What is the average quantity sold for each branch?
 The query groups the data by "Branch" and calculates the average quantity sold for each branch. This provides insights into the sales performance of each branch. A higher average quantity indicates higher sales volume at that branch. Higher sales volume might indicate higher customer traffic in that branch. Branches with higher average quantity sold likely have a higher demand for products. Branches with higher average quantity sold might benefit from more effective marketing strategies. The average quantity sold could reflect the popularity of certain products among customers at specific branches.
 
-![](pic16.png)                                                                      ![](vis13.png)
+![](pic16.png)                                                                      ![](vic13.png)
 
 14. For each gender, what is the total gross income and total tax amount?
 The query groups the data by "Gender" and calculates the total gross income and total tax amount for each gender. This helps understand the revenue generated from each gender group. Differences in total gross income could indicate varying preferences in product categories or types of items purchased by each gender. Variations in the total tax amount might suggest differences in tax rates or sales distribution among gender categories. This might reflect the effectiveness of marketing strategies targeted at specific gender groups.
@@ -201,18 +201,18 @@ The query groups the data by "Product line" and calculates the average unit pric
 16. What is the total gross income for each payment method and customer type combination?
 The query groups the data by both "Payment" and "Customer type" and calculates the total gross income for each combination. This shows the revenue generated based on different payment methods and customer types. The gross income from Member customer types might reflect benefits offered to members, such as discounts or exclusive offers. Certain payment methods may be associated with faster transaction processing, leading to higher gross income.
 
-![](pic19.png)                                                          ![](vis16.png)
+![](pic19.png)                                                          ![](vic16.png)
 
 17. The total revenue for each gender
 The data can provide insights into spending behaviour and preferences based on gender. Analyzing revenue by gender can help identify which product lines or categories are more popular among different genders.
 Females tend to bring in more revenue than males.
 
-![](pic20.png)
+![](pic20.png)                                                              ![](vis17.png)
 
 18. What is the total cost of goods sold (COGS) for each product line?
 By comparing the total COGS for different product lines, we can identify which product lines have higher or lower costs. Understanding COGS helps in assessing the profitability of each product line based on the difference between total revenue and COGS. Provides insights into which product lines are more cost-effective and contribute more to the gross profit.
 
-![](pic21.png)
+![](pic21.png)                                                                ![](vis18.png)
 
 19. Which product lines have the highest and lowest average gross margin percentage?
 
@@ -221,7 +221,7 @@ By comparing the total COGS for different product lines, we can identify which p
 20. What was the most used mode of payment?
 The data shows the distribution of payment methods (Ewallet, Cash, Credit card) and the corresponding counts of each payment method in transactions. The data reveals which payment methods are more frequently used by customers for their purchases.  Payment preferences may differ based on customer segments (e.g., age, location). This data can be used to segment customers accordingly.
 
-![](pic23.png)
+![](pic23.png)                                                                         ![](vis20.png)
 
 22. Which customer type contributes the most to total revenue?
 
