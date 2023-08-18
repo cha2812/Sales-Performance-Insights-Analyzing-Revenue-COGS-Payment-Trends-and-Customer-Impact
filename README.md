@@ -145,13 +145,13 @@ The total gross income was 15379.3690.  it's the total revenue generated before 
 The query retrieves the maximum value from the "Unit price" column in the "sales_data" table, indicating the highest unit price among all products.
 The highest unit price was 99.96. This value represents the highest price at which a single unit of a product was sold. It could have been a premium or luxury item that commands a higher price due to its quality, brand, or unique features.
 
-![](pic9.png)
+![](pic9.png)                                                                          
 
 7. What is the lowest unit price among the products?
 The query retrieves the minimum value from the "Unit price" column in the "sales_data" table, indicating the lowest unit price among all products.
 The lowest price was 10.08. This represents the lowest price at which a single unit of a product was sold. This could be a budget-friendly or entry-level item that is accessible to a wide range of customers due to its affordability.
 
-![](pic10.png)
+![](pic10.png)                                              
 
 9. What is the average gross margin percentage?
 The query calculates the average of the "gross margin percentage" column in the "sales_data" table. The gross margin percentage represents the profit margin for each product.
@@ -163,38 +163,40 @@ The percentage was 4.761904762%. This is a financial metric that shows the propo
 The query groups the data by "Customer type" and calculates the total gross margin percentage for each group. This provides insight into how profitable different customer types are.
 Normal customers might represent occasional shoppers, while Members could be loyal or frequent buyers with potential benefits.
 
-![](pic12b.png)
+![](pic12b.png)                                                                                 ![](vis9.png)
 
 10. What is the total tax amount for each branch?
 The query groups the data by "Branch" and calculates the total tax amount (5% of the price) for each branch. This helps understand the tax revenue generated from each branch.
 Branch "C" has the highest total tax amount of 5265.1765, followed closely by branch A with a total tax amount of 5057.1605. Branch B has the lowest total tax amount of 5057.032. The higher tax amount in branches C and A could be due to either higher sales revenue or a higher tax rate on products sold compared to branch B.
 
-![](pic12.png)
+![](pic12.png)                                                                                   ![](vis10.png)
 
 11. What is the average rating for each product line?
 The query groups the data by "Product line" and calculates the average rating for each product line. This gives insight into the average customer satisfaction for each product category. Higher average ratings might indicate that customers are more satisfied with products in certain categories, suggesting stronger market preferences. Higher ratings can suggest that customers perceive products in that category to be of better quality or value. Lower ratings could indicate that certain product lines are not meeting customer expectations or needs.
 
-![](pic13.png)
+![](pic13.png)                                                                                    ![](vis11.png)
 
 12. What is the total revenue for each product line, considering both unit price and quantity?
 The query groups the data by "Product line" and calculates the total revenue for each product line. Revenue is calculated by multiplying the "Unit price" and "Quantity" for each product sold. Higher total revenue suggests that certain product lines are more popular and have higher sales volumes. While revenue is a top-line metric, it's important to consider profitability as well. A high-revenue product line might not always translate to high profits if the associated costs are high. Products with higher total revenue might indicate higher demand from customers. Differences in total revenue can highlight seasonal trends and consumer buying patterns for different product lines.
 
-![](pic15.png)
+![](pic15.png)                                                                     ![](vis12.png)
 
 13. What is the average quantity sold for each branch?
 The query groups the data by "Branch" and calculates the average quantity sold for each branch. This provides insights into the sales performance of each branch. A higher average quantity indicates higher sales volume at that branch. Higher sales volume might indicate higher customer traffic in that branch. Branches with higher average quantity sold likely have a higher demand for products. Branches with higher average quantity sold might benefit from more effective marketing strategies. The average quantity sold could reflect the popularity of certain products among customers at specific branches.
 
-![](pic16.png)
+![](pic16.png)                                                                      ![](vis13.png)
 
 14. For each gender, what is the total gross income and total tax amount?
 The query groups the data by "Gender" and calculates the total gross income and total tax amount for each gender. This helps understand the revenue generated from each gender group. Differences in total gross income could indicate varying preferences in product categories or types of items purchased by each gender. Variations in the total tax amount might suggest differences in tax rates or sales distribution among gender categories. This might reflect the effectiveness of marketing strategies targeted at specific gender groups.
 
-![](pic17.png)
+![](pic17.png)                                                                      ![](vis14.png)
 
 15. What is the average unit price and average quantity sold for each product line?
 The query groups the data by "Product line" and calculates the average unit price and average quantity sold for each product line. This provides insights into pricing and sales volume for each product category. The average quantity sold reflects the popularity or demand for each product line category.
 
-![](pic18.png)
+![](pic18.png)                                                            
+
+![](vis15a.png)                                                      ![](vis15b.png)
 
 16. What is the total gross income for each payment method and customer type combination?
 The query groups the data by both "Payment" and "Customer type" and calculates the total gross income for each combination. This shows the revenue generated based on different payment methods and customer types. The gross income from Member customer types might reflect benefits offered to members, such as discounts or exclusive offers. Certain payment methods may be associated with faster transaction processing, leading to higher gross income.
@@ -225,10 +227,7 @@ The data shows the distribution of payment methods (Ewallet, Cash, Credit card) 
 
 ![](pic24.png)
 
-For better understanding, I have provided visuals to better represent my findings.
 
-For question 9
-![](
 
 ## Some recommendations to the management
 - Customize promotions and offers based on customer preferences and demographics.
