@@ -225,6 +225,10 @@ The data shows the distribution of payment methods (Ewallet, Cash, Credit card) 
 
 ![](pic24.png)
 
+For better understanding, I have provided visuals to better represent my findings.
+
+For question 9
+![](
 
 ## Some recommendations to the management
 - Customize promotions and offers based on customer preferences and demographics.
