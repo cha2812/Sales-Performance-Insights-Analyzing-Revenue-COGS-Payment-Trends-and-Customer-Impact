@@ -201,7 +201,7 @@ The query groups the data by "Product line" and calculates the average unit pric
 16. What is the total gross income for each payment method and customer type combination?
 The query groups the data by both "Payment" and "Customer type" and calculates the total gross income for each combination. This shows the revenue generated based on different payment methods and customer types. The gross income from Member customer types might reflect benefits offered to members, such as discounts or exclusive offers. Certain payment methods may be associated with faster transaction processing, leading to higher gross income.
 
-![](pic19.png)
+![](pic19.png)                                                          ![](vis16.png)
 
 17. The total revenue for each gender
 The data can provide insights into spending behaviour and preferences based on gender. Analyzing revenue by gender can help identify which product lines or categories are more popular among different genders.
