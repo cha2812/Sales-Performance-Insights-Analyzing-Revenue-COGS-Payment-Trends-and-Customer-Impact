@@ -223,9 +223,10 @@ The data shows the distribution of payment methods (Ewallet, Cash, Credit card) 
 
 ![](pic23.png)                                                                         ![](vis20.png)
 
-22. Which customer type contributes the most to total revenue?
+21. Which customer type contributes the most to total revenue?
 
-![](pic24.png)
+![](pic24.png)                                             ![](vis21.png)
+
 
 
 
