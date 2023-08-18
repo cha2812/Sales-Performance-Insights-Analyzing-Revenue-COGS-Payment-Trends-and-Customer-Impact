@@ -165,7 +165,7 @@ Normal customers might represent occasional shoppers, while Members could be loy
 
 ![](pic12b.png)
 
-11. What is the total tax amount for each branch?
+10. What is the total tax amount for each branch?
 The query groups the data by "Branch" and calculates the total tax amount (5% of the price) for each branch. This helps understand the tax revenue generated from each branch.
 Branch "C" has the highest total tax amount of 5265.1765, followed closely by branch A with a total tax amount of 5057.1605. Branch B has the lowest total tax amount of 5057.032. The higher tax amount in branches C and A could be due to either higher sales revenue or a higher tax rate on products sold compared to branch B.
 
