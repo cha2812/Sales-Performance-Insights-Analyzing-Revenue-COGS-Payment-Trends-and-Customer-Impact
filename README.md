@@ -226,12 +226,6 @@ The data shows the distribution of payment methods (Ewallet, Cash, Credit card) 
 ![](pic24.png)
 
 
-## Conclusion
-In delving into the depths of our retail sales dataset, I have found invaluable insights that explain customer preferences, revenue trends, and operational methods. By employing rigorous data analysis techniques, we've gained clarity on pricing dynamics, payment preferences, and temporal patterns. These revelations empower us to tailor strategies that optimize profitability, enhance customer experiences, and steer the business toward sustained growth. With these insights, we're poised to make informed decisions that align with market demands and capitalize on emerging opportunities.
-
-The Company has 1000 invoices in its databases. The company sold 5,510 products at an average price of 55.672130000000000. They generated an income of 15,379.3690. The most expensive and priciest product cost 99.96 while the lowest priced product cost 10.08.
-The Customers that were members or who had membership had a slight gross margin percentage of 2385.714285762 as against the normal customers who had 2376.190476238. The customers preferred to pay with Ewallet, then cash and credit card last.
-
 ## Some recommendations to the management
 - Customize promotions and offers based on customer preferences and demographics.
 - Understand and adapt to regional payment and shopping preferences based on city demographics.
@@ -242,6 +236,13 @@ The Customers that were members or who had membership had a slight gross margin 
 - Tailor marketing efforts to maximize customer engagement during peak shopping hours.
 - Implement improvements or adjustments in underperforming branches to enhance customer experiences like creating attractive displays that highlight promotions, new arrivals, and popular items, encourage staff to engage with customers, offer assistance, and provide personalized recommendations, and stock products that resonate with the local culture, trends, and preferences.
 - Implement a feedback mechanism, such as suggestion boxes or online surveys, to gather customer opinions. Actively listen to customer feedback and address concerns to show commitment to improvement.
+
+## Conclusion
+In delving into the depths of our retail sales dataset, I have found invaluable insights that explain customer preferences, revenue trends, and operational methods. By employing rigorous data analysis techniques, we've gained clarity on pricing dynamics, payment preferences, and temporal patterns. These revelations empower us to tailor strategies that optimize profitability, enhance customer experiences, and steer the business toward sustained growth. With these insights, we're poised to make informed decisions that align with market demands and capitalize on emerging opportunities.
+
+The Company has 1000 invoices in its databases. The company sold 5,510 products at an average price of 55.672130000000000. They generated an income of 15,379.3690. The most expensive and priciest product cost 99.96 while the lowest priced product cost 10.08.
+The Customers that were members or who had membership had a slight gross margin percentage of 2385.714285762 as against the normal customers who had 2376.190476238. The customers preferred to pay with Ewallet, then cash and credit card last.
+
 
 
 
